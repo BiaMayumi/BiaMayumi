@@ -9,3 +9,11 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BiaMayumi&bg_color=0D1117&color=6e8c8a&line=40308d&point=2ba3ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 
+
+<i> There Is a Light That Never Goes Out. 
+Keep the flame lit.</i> <br> <br>
+<img src="https://github.com/BiaMayumi/BiaMayumi/issues/1#issue-1691173583" width="220">
+
+##
