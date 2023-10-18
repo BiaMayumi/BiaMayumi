@@ -4,7 +4,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaMayumi&show_icons=true&theme=highcontrast&icon_color=FF5124)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BiaMayumi&bg_color=191970&color=6959CD&line=BC131F&point=BC131F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
