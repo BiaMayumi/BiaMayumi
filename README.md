@@ -10,6 +10,7 @@
 <br>
 <h6> 
 👾| computação, games, robótica & tecnologia. </h6>
+<br>
 
 ### skills :
 <div>
@@ -22,6 +23,8 @@
   <img width="40px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="40px" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </div>
+
+<br> <br>
 
 <i> There Is a Light That Never Goes Out. 
 Keep the flame lit.</i> <br> <br>
